@@ -1,5 +1,5 @@
 # Countdown-Timer
-alogue flip style clock
+analogue flip style clock
 Countdown Timer in Javascript jquery
 
 
